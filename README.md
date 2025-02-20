@@ -17,8 +17,7 @@ My name is Maciej, and I'm a **Java developer** with a strong interest in backen
 - Hands-on experience with **RESTful APIs**, **database design**, and **Docker**.
 - A proactive approach to learning and improving my skills in software development.
 - A growth mindset – I’m always eager to take on new challenges and expand my knowledge.
-
-📫 How to reach me: [maciek.gryn@gmail.com]  
+ 
 🚀 Feel free to explore my repositories and connect with me for collaboration or discussions!
 
 <!--
