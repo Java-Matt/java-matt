@@ -3,7 +3,7 @@
 My name is Maciej, and I'm a **Java developer** with a strong interest in backend development and modern software architecture. I enjoy building efficient systems and continuously expanding my knowledge in the world of software engineering.
 
 - 🔭 I’m currently working on a **microservices-based project** where I’m exploring **Keycloak** for authentication, **RabbitMQ** for message brokering, and integrating external APIs (e.g., currency exchange rates). This project is helping me deepen my understanding of distributed systems and event-driven architecture.
-- 🌱 I’m currently learning **Jenkins** for CI/CD and starting to explore **Kubernetes** to get familiar with container orchestration. I also plan to begin learning **AWS** to expand my knowledge of cloud technologies.
+- 🌱 I’m currently learning **Jenkins** for CI/CD and starting to explore **Kubernetes** to get familiar with container orchestration. I’m also beginning to learn **Kafka** to understand event streaming and distributed messaging systems. Additionally, I plan to begin learning **AWS** to expand my knowledge of cloud technologies.
 - 💡 I’m passionate about writing clean, maintainable code and always strive to learn new technologies and best practices to become a better developer.
 
 ### Tech Stack:
